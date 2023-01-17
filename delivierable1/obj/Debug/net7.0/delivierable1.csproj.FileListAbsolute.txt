@@ -1,0 +1,15 @@
+/Users/denaelivingston/Projects/delivierable1/delivierable1/bin/Debug/net7.0/delivierable1
+/Users/denaelivingston/Projects/delivierable1/delivierable1/bin/Debug/net7.0/delivierable1.deps.json
+/Users/denaelivingston/Projects/delivierable1/delivierable1/bin/Debug/net7.0/delivierable1.runtimeconfig.json
+/Users/denaelivingston/Projects/delivierable1/delivierable1/bin/Debug/net7.0/delivierable1.dll
+/Users/denaelivingston/Projects/delivierable1/delivierable1/bin/Debug/net7.0/delivierable1.pdb
+/Users/denaelivingston/Projects/delivierable1/delivierable1/obj/Debug/net7.0/delivierable1.csproj.AssemblyReference.cache
+/Users/denaelivingston/Projects/delivierable1/delivierable1/obj/Debug/net7.0/delivierable1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denaelivingston/Projects/delivierable1/delivierable1/obj/Debug/net7.0/delivierable1.AssemblyInfoInputs.cache
+/Users/denaelivingston/Projects/delivierable1/delivierable1/obj/Debug/net7.0/delivierable1.AssemblyInfo.cs
+/Users/denaelivingston/Projects/delivierable1/delivierable1/obj/Debug/net7.0/delivierable1.csproj.CoreCompileInputs.cache
+/Users/denaelivingston/Projects/delivierable1/delivierable1/obj/Debug/net7.0/delivierable1.dll
+/Users/denaelivingston/Projects/delivierable1/delivierable1/obj/Debug/net7.0/refint/delivierable1.dll
+/Users/denaelivingston/Projects/delivierable1/delivierable1/obj/Debug/net7.0/delivierable1.pdb
+/Users/denaelivingston/Projects/delivierable1/delivierable1/obj/Debug/net7.0/delivierable1.genruntimeconfig.cache
+/Users/denaelivingston/Projects/delivierable1/delivierable1/obj/Debug/net7.0/ref/delivierable1.dll
